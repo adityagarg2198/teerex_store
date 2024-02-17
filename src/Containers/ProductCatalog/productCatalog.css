@@ -1,0 +1,19 @@
+.product-catalog {
+  flex: 3;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.product-container {
+  border: 0.1rem solid #eaf3ff;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  gap: 1.5rem !important;
+  flex-wrap: wrap;
+  justify-content: flex-start !important;
+}
+
+.not-found {
+  font-size: 2rem;
+  color: #1d4682;
+}

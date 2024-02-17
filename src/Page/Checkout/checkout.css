@@ -1,0 +1,29 @@
+.checkout {
+  padding: 10rem 1rem 1rem;
+  font-size: 1.6rem;
+  color: #1d4682;
+  flex-direction: column;
+}
+
+.checkout h2 {
+  font-size: 1.8rem;
+}
+
+.cart-container {
+  justify-content: flex-start !important;
+  align-items: flex-start !important;
+  flex-wrap: wrap;
+}
+
+.cart-footer {
+  padding: 2em;
+  position: fixed;
+  background-color: #eaf3ff;
+  width: 100%;
+  bottom: 0;
+}
+
+.cart-footer p {
+  font-size: 1.6rem;
+  color: #1d4682;
+}

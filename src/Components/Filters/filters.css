@@ -1,0 +1,11 @@
+.filter {
+  flex-direction: column;
+  align-items: flex-start !important;
+}
+.filter h2 {
+  font-size: 1.6rem;
+}
+.checkbox {
+  font-size: 1.4rem;
+  cursor: pointer;
+}
